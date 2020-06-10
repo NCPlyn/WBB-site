@@ -1,0 +1,112 @@
+body {
+  position: relative;
+  min-height: 100%;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  width: 120px;
+  line-height: 40px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.bttn {
+    background:#21252B;
+    color: white;
+}
+
+.bttn {
+  background:#21252B;
+  color: white;
+  border: 1px solid white;
+  border-radius: 15px;
+  font-variant: small-caps;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.bttn:hover{
+  background: #15181c;
+  border: 1px solid white;
+}
+
+body {
+  font-family:Open Sans;
+  background-color:#282C34;
+}
+
+main {
+  text-align: center;
+  color: white;
+  padding: 0%;
+}
+
+.mainimg {
+  padding-top: 5%;
+  padding-left: 3%;
+}
+
+.givemeSPACE {
+  margin-top: 5%;
+}
+
+.offset-md-3 .ofe {
+  margin-right: 1%;
+}
+
+.card {
+  background:#21252B;
+}
+
+h1 {
+  margin-bottom: 2%;
+}
+
+.vidh1 {
+  font-weight: bold;
+  margin-top: 5%
+}
+
+.row {
+  margin-top: 5%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.btcus {
+  padding: 5px;
+  background:#21252B;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.btcus:hover {
+  background: #15181c;
+  border: 1px solid white;
+  text-decoration: none;
+  color: white;
+}
+
+.card-title {
+  margin-bottom: 10%;
+}
+
+.bt1 {
+  margin-right: 3%;
+}
+
+.btn-secondary {
+  background-color:#21252B !important;
+}
+
+.about {
+  margin: 5%;
+}
+
+.givemeanotherSPACE {
+  margin-bottom: 5%; 
+}
