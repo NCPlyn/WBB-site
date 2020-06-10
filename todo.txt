@@ -4,3 +4,4 @@ obrázky
 minimálně jedna tabulka, seznam s odrážkami
 opravit br
 favicon
+fix fade + contacts font - on mobile
