@@ -5,7 +5,7 @@ $(window).scroll( function(){
     $('.fade').each( function(i){
 
         var bottom_of_object = $(this).position().top + $(this).outerHeight();
-        var bottom_of_window = $(window).scrollTop() + $(window).height();
+        var bottom_of_window = $(window).scrollTop() + $(window).height() + 200;
 
         if( bottom_of_window > bottom_of_object ){
 
