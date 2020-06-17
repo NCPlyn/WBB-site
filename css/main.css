@@ -108,5 +108,11 @@ h1 {
 }
 
 .givemeanotherSPACE {
-  margin-bottom: 5%; 
+  margin-bottom: 5%;
+}
+
+.waitline {
+  margin: 0px auto;
+  max-width: 50%;
+  text-align: center;
 }
